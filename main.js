@@ -72,7 +72,7 @@ operatorButtons.forEach(button => {
         displayValue = '0';
         display.textContent = displayValue;
       } else {
-        // Check if secondNumber is already set
+        
         if (secondNumber !== null) {
           calculate();
         }
