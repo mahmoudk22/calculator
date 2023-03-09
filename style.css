@@ -2,6 +2,7 @@ body {
     display: flex;
     justify-content: center;
     background: #181717cb;
+    margin-top: 150px;
 }
 
 .calculator {
@@ -67,3 +68,5 @@ body {
   .clear:hover {
     background-color: #FFA
   }
+
+  
